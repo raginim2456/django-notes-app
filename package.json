@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "npm build",
+    "test": "echo \"No tests yet\""
+  }
+}
